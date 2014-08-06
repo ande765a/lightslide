@@ -1,4 +1,4 @@
-lightslide
+LightSlide
 ==========
 
 A simple no-jQuery responsive and touch-enabled slideshow plugin
